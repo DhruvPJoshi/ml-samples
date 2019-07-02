@@ -1,6 +1,10 @@
 .vscode/
 target/
 .mvn/
+.settings/
+.classpath
+.factorypath
+.project
 *.class
 *.log
 *.jar
